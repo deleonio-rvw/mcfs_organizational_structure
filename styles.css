@@ -92,8 +92,6 @@
 }
 
 .section_head{
-    
-  
     height: 51px;
     font-size: 23px ;
     font-weight: 500;
@@ -117,6 +115,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    margin-bottom: 50px;
 }
 
 .bpe{

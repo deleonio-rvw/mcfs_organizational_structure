@@ -1,0 +1,13 @@
+.menu_main{
+    display:flex;
+    flex-direction: row;
+
+}
+.menu_about, .menu_organization, .menu_capabilities, .menu_history{
+    width:25%;
+    height: 30px;
+}
+.button_about, .button_organization, .button_capabilities, .button_history{
+    width: 100%;
+    height:100%;
+}
